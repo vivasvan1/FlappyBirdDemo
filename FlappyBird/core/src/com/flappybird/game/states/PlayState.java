@@ -9,9 +9,6 @@ import com.flappybird.game.FlappyBird;
 import com.flappybird.game.sprites.Bird;
 import com.flappybird.game.sprites.Tube;
 
-/**
- * Created by vivasvan on 01-Dec-17.
- */
 
 public class PlayState extends state{
 
